@@ -45,6 +45,7 @@ dependencies:
   - cytoolz
   - dask
   - dask-core
+  - dask-gateway=>0.8.0
   - dbus
   - decorator
   - defusedxml
