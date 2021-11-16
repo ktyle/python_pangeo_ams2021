@@ -1,1 +1,5 @@
+.*
 notebooks/dask-worker-space/
+notebooks/.ipynb*
+notebooks/alerts.md
+!.gitignore
